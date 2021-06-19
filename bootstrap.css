@@ -1,0 +1,37 @@
+
+
+*{
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar, .navbar-default{
+    margin-bottom: 0px;
+    background-color: cadetblue;
+    font-weight: bold;
+    color:black;
+    
+}
+
+
+.conatiner-fluid, .hidden-xs{
+    text-align: center;
+
+    font-size: 20px;
+    font-weight: bolder;
+    background-color: aqua;
+    margin-top: -20px;
+}
+
+.jumbotron, .jumbotron-fluid-xm{
+    height: 400px;
+    overflow: auto;
+    text-align:center;
+    background-color: gray;
+}
+
+.list-group, .collapse, a:nth-child(odd):hover{
+    background-color: cadetblue;
+    transition: .4s;
+    
+}
